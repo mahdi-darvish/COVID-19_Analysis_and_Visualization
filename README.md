@@ -1,7 +1,7 @@
 ## Background
 The COVID-19 is a contagious coronavirus that hailed from Wuhan, China. This new strain of virus has striked fear in many countries as cities are quarantined and hospitals are overcrowded. This dataset will help us understand how COVID-19 is spread in Iran and generally aroud the world .
 
-I tried to use a valid and verified dataset to visualize the data, after all, it doesn't matter how good the analysis is if the data is not accurate. Information about the dataset is brought to you in another section. In this notebook the goal is to show the exact details about confirmed cases,  recovered and also deaths due to COVID-19, data is mostly splitted countrywise with an emphasis on, my country of birth,  Iran, and comparing its situation to other similar countries. unfortunately, there are only a few reports on Iran's different cities and no uniform and valid dataset.
+I tried to use a valid and verified dataset to visualize the data, after all, it doesn't matter how good the analysis is if the data is not accurate. Information about the dataset is addressed later on. In this notebook the goal is to show the exact details about confirmed cases,  recovered and also deaths due to COVID-19, data is mostly splitted countrywise with an emphasis on, my country of birth,  Iran, and comparing its situation to other similar countries. unfortunately, there are only a few reports on Iran's different cities and no uniform and valid dataset.
 
 I believe that epidemic data should be openly available and easily accessible for health professionals and data scientists. This dataset would serve as a starting point for people to gather more data about epidemics, not just statistics, but also new stories, government responses etc.
 
