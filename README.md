@@ -12,7 +12,7 @@ I believe that epidemic data should be openly available and easily accessible fo
 
 ## Data
 
-The data used in this project is from a github repository [covid_19_jhu_data_web_scrap_and_cleaning] data is gathered from several verified websites using scrapping, you can see more specific details and python codes that used to scrape the data is available in the mentioned repository. Moreover, there is a list that explains the different files inside the input folder :
+The data used in this project is from a github repository [covid_19_jhu_data_web_scrap_and_cleaning](https://github.com/imdevskp/covid_19_jhu_data_web_scrap_and_cleaning) data is gathered from several verified websites using scrapping, you can see more specific details and python codes that used to scrape the data is available in the mentioned repository. Moreover, there is a list that explains the different files inside the input folder :
 
    
 * > *covid_19_clean_complete.csv* - Country wise day to day cases dataset  
