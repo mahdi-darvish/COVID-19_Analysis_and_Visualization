@@ -8,6 +8,7 @@ I tried to use a valid and verified dataset to visualize the data, after all, it
 I believe that epidemic data should be openly available and easily accessible for health professionals and data scientists. This dataset would serve as a starting point for people to gather more data about epidemics, not just statistics, but also new stories, government responses etc.
 
 ## project Details
+![alt text](https://github.com/mahdi-darvish/COVID-19_Analysis_and_Visualization/blob/master/graphs.png?raw=true)
 
 
 ## Data
