@@ -8,7 +8,22 @@ I tried to use a valid and verified dataset to visualize the data, after all, it
 I believe that epidemic data should be openly available and easily accessible for health professionals and data scientists. This dataset would serve as a starting point for people to gather more data about epidemics, not just statistics, but also new stories, government responses etc.
 
 ## project Details
+
+I tried my best to display the data in the best way possible, using different variants and types of graphs ( Over 15 different types), data is visualized and analyzed. I started from simpler graphs like bar charts and histograms to more complicated ones like box charts and bubble charts.
+
+There is a brief overview of different types of charts in the image below :
+
 ![alt text](https://github.com/mahdi-darvish/COVID-19_Analysis_and_Visualization/blob/master/graphs.png?raw=true)
+
+
+## Available Files
+
+
+* > [COVID-19_Analysis_and_Visualization.ipynb](https://github.com/mahdi-darvish/COVID-19_Analysis_and_Visualization/blob/master/COVID-19_Analysis_and_Visualization.ipynb) - This is original notebook with all the explanations and useful data.(You should download and install requirements as instructed on the notebook to see the plots properly)
+
+* > [COVID-19_Analysis_and_Visualization.html](https://github.com/mahdi-darvish/COVID-19_Analysis_and_Visualization/blob/master/COVID-19_Analysis_and_Visualization.html) - This is a HTML view of the notebook (You may use it because github can't show the interactive graphs properly at the moment).
+
+* > [NB Viewer Version](https://nbviewer.jupyter.org/github/mahdi-darvish/COVID-19_Analysis_and_Visualization/blob/master/COVID-19_Analysis_and_Visualization.ipynb) - This is a 3rd-party website that can help you to see the notebook on the fly, no need to install or download any packages.
 
 
 ## Data
